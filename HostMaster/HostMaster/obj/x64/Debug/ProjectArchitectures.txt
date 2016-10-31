@@ -1,0 +1,2 @@
+C:\Users\Rob\Desktop\HostMaster01\HostMaster\HostMaster.csproj;x64
+C:\Users\Rob\Desktop\HostMaster01\mDNSManager\mDNSManager.csproj;x64
